@@ -1,4 +1,4 @@
-# Project Name
+# Project
 
 This project is built with Express, Sequelize, React, and Ant Design.
 
