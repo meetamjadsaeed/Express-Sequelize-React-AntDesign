@@ -21,7 +21,7 @@ This project is built with Express, Sequelize, React, and Ant Design.
 
 ### Backend Setup
 
-1. Clone the repository: `git clone [<repository-url>](https://github.com/meetamjadsaeed/Express-Sequelize-React-AntDesign.git)`
+1. Clone the repository: `git clone https://github.com/meetamjadsaeed/Express-Sequelize-React-AntDesign.git`
 2. Navigate to the backend directory: `cd backend`
 3. Install dependencies: `npm install` or `yarn install`
 4. Set up your database configuration in `config/config.json`
